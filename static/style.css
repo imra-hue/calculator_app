@@ -25,6 +25,8 @@ body{
 .h1{
     text-align: center;
     margin-top: -500px;
+    align-items: center;
+    margin-right: 50px;
 }
 
 #display{
