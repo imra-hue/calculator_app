@@ -62,3 +62,38 @@ button{
 .equal{
     background-color: rgb(55, 55, 248);
 }
+
+
+
+
+/* Mobile Screens */
+@media (max-width:480px){
+
+    .calculator{
+        max-width: 95%;
+    }
+
+    button{
+        height: 55px;
+        font-size: 18px;
+    }
+
+    #display{
+        height: 55px;
+        font-size: 20px;
+    }
+}
+
+/* Large Screens */
+@media (min-width:900px){
+
+    .calculator{
+        max-width: 400px;
+    }
+
+    button{
+        height: 70px;
+        font-size: 24px;
+    }
+
+}
