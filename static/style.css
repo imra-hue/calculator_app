@@ -14,18 +14,17 @@ body{
     align-items: center;
 }
 
+.h1{
+    text-align: center;
+    margin-top: -500px;
+}
+
 .calculator{
     
     height: 400px;
     width: 350px;
     background-color:rgb(59, 58, 58);
     border-radius: 15px;
-}
-
-.h1{
-    text-align: center;
-    margin-top: -500px;
-    
 }
 
 #display{
