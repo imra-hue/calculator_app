@@ -63,10 +63,7 @@ button{
     background-color: rgb(55, 55, 248);
 }
 
-
-
-
-/* Mobile Screens */
+ /* Mobile Screens */
 @media (max-width:480px){
 
     .calculator{
