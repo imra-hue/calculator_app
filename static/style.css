@@ -14,9 +14,9 @@ body{
     align-items: center;
 }
 
-h1{
+h2{
     text-align: center;
-    
+    margin-top: -500px;
 }
 
 .calculator{
